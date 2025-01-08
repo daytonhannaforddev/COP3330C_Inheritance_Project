@@ -1,7 +1,7 @@
 # COP3330C_Inheritance_Project
 Dayton Hannaford, CEN-3024C-24204
 
-Project files from my module 2 COP3330C Project
+Project files from my Module 2 COP3330C Project
 
 The goal of this project was to create 1 parent and 2 child classes that inherit attributes from the parent. The parent must have a public interface and the child classes must override public interface methods.
 The program has a 'Hero' child and 'Villian' child which inherits from 'Fighter' parent class.
